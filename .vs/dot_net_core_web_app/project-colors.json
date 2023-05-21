@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ad0d4e17-51a3-435c-a39e-9a5303fc7d26": {
+      "ProjectGuid": "ad0d4e17-51a3-435c-a39e-9a5303fc7d26",
+      "DisplayName": "dot_net_core_web_app",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
